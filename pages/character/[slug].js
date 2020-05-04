@@ -1,4 +1,4 @@
-import Layout from '../../components/layout'
+import Layout from '../../components/Layout'
 import Head from 'next/head'
 import unfetch from 'isomorphic-unfetch'
 import slug from 'slug'
